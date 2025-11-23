@@ -5,7 +5,7 @@
     "description": "自由気ままに喋る集会です！老若男女問わず大歓迎です！",
     "host": "astral",
     "image": "https://i.gyazo.com/thumb/1000/50238cb5d987c888e2087cae9015bf47-png.jpg",
-    "dateTime": "2025/11/23 22:10",
+    "dateTime": "2025/11/25 22:10",
     "count": 15,
     "privacy": "Group+",
     "category": "交流会 / 雑談会",
@@ -13,6 +13,22 @@
     "tags": [
       "JP",
       "単発イベント"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "平日深夜部",
+    "description": "ニート大歓迎",
+    "host": "かや11",
+    "image": "https://i.gyazo.com/d23bfbfc74b36dd3c13cec9d30f5d959.png",
+    "dateTime": "2025/11/30 01:00",
+    "count": 15,
+    "privacy": "Public",
+    "category": "交流会 / 雑談会",
+    "platform": "PC専用",
+    "tags": [
+      "18+",
+      "まったり系"
     ]
   }
 ]
